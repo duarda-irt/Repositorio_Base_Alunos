@@ -1,0 +1,1 @@
+Aqui, vocês vão colocar os primeiros códigos, aqueles sobre operadores, prints, inputs, etc
